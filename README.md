@@ -1,3 +1,3 @@
 ## REPOSITORIO PARA PRACTICAR
 
-practicar comando git-´pull
+practicar comando git-pull
